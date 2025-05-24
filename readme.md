@@ -3,8 +3,8 @@
    * скопировать репозиторий git clone https://github.com/larchik2000/yadro
    * перейти в папку cd yadro/
    * собрать проект:
-   mkdir build
-   cd build
-   cmake ..
-   make
+   + mkdir build
+   + cd build
+   + cmake ..
+   + make
   *запустить исполняемый файл ./exp
