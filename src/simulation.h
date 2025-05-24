@@ -1,5 +1,5 @@
 #pragma once
-
+#include <climits>
 #include "robot.h"
 #include "grid.h"
 #include <vector>
